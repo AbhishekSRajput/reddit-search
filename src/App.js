@@ -35,8 +35,10 @@ class RedditSearch extends Component {
 		this.setState({ searchedTerm });
 	}
 
+	//used destructuring here
 	onChange(e) {
-		this.setState({ [e.target.name]: e.target.value });
+		const { name, value } = e.target;
+		this.setState({ [name]: value });
 	}
 
 	render() {
