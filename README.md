@@ -1,5 +1,5 @@
 the reddit api dosent allow its free abi to run you can run this app on your computer locally and it will work fine
-Here’s link of the hosted app https://apcgamer.github.io/reddit-search/
+Here’s link of the hosted app https://abhisheksrajput.github.io/reddit-search/
 
 # Getting Started with Create React App
 
